@@ -1,5 +1,5 @@
 # MP3_dowloand
-projeto que bascimente faz Dowloand em áudio (MP3) do youtube para o seu diretório . 
+Um projeto que basicamente faz o download de áudio (MP3) do YouTube diretamente para o seu diretório.
 
 
 ## Como funciona?
